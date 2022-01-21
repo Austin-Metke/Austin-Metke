@@ -12,5 +12,4 @@
 ## Some of my Github Stats
 <p> <img src=https://komarev.com/ghpvc/?username=LethalBoar70923 alt=LethalBoar70923 /> </p>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=LethalBoar70923&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LethalBoar70923&langs_count=5&theme=tokyonight)]()
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LethalBoar70923&count_private=true&show_icons=true&theme=tokyonight)
