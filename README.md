@@ -13,13 +13,9 @@
 <p> <img src=https://komarev.com/ghpvc/?username=LethalBoar70923 alt=LethalBoar70923 /> </p>
 
 
-
 <a href="https://github.com/LethalBoar70923">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LethalBoar70923&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/LethalBoar70923/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LethalBoar70923&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=LethalBoar70923&count_private=true&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LethalBoar70923&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
