@@ -17,7 +17,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LethalBoar70923&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/LethalBoar70923/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LethalBoar70923&count_private=true&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LethalBoar70923&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 
 
