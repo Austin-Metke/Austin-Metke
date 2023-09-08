@@ -6,7 +6,7 @@
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=www.linkedin.com/in/austin-metke/" />
 </a>
 <a href="https://github.com/Austin-Metke">
-  <img align="center" src="https://img.shields.io/badge/-Austin-Metke-grey?style=flat-square&logo=github&logoColor=white&link=github.com/Austin-Metke/" />
+  <img align="center" src="https://img.shields.io/badge/Austin-Metke-grey?style=flat-square&logo=github&logoColor=white&link=github.com/Austin-Metke/" />
 </a>
   
 
