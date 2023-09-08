@@ -5,19 +5,19 @@
 <a href="https://www.linkedin.com/in/austin-metke/">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=www.linkedin.com/in/austin-metke/" />
 </a>
-<a href="https://github.com/LethalBoar70923">
-  <img align="center" src="https://img.shields.io/badge/-LethalBoar70923-grey?style=flat-square&logo=github&logoColor=white&link=github.com/LethalBoar70923/" />
+<a href="https://github.com/Austin-Metke">
+  <img align="center" src="https://img.shields.io/badge/-Austin-Metke-grey?style=flat-square&logo=github&logoColor=white&link=github.com/Austin-Metke/" />
 </a>
   
 
 ### My Github Stats!
 
 
-<a href="https://github.com/LethalBoar70923">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LethalBoar70923&count_private=true&show_icons=true&theme=tokyonight" />
+<a href="https://github.com/Austin-Metke">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Austin-Metke&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/LethalBoar70923/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LethalBoar70923&layout=compact&count_private=true&theme=tokyonight" />
+<a href="https://github.com/Austin-Metke/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Austin-Metke&layout=compact&count_private=true&theme=tokyonight" />
 </a>
 
 
