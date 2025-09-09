@@ -1,48 +1,51 @@
-## Hey 👋, I'm Austin
+## Hey 👋, I'm Austin  
 
+💻 Software Developer | 🚀 Passionate about Flutter, Backend Systems & Open Source | 🎯 Always Learning  
 
-### See what I'm up to!
-<a href="https://www.linkedin.com/in/austin-metke/">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=www.linkedin.com/in/austin-metke/" />
-</a>
-<a href="https://github.com/Austin-Metke">
-  <img align="center" src="https://img.shields.io/badge/Austin-Metke-grey?style=flat-square&logo=github&logoColor=white&link=github.com/Austin-Metke/" />
-</a>
-  
+---
 
-### My Github Stats!
+### 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/austin-metke/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Austin--Metke-black?style=flat-square&logo=github)](https://github.com/Austin-Metke)  
 
+---
 
-<a href="https://github.com/Austin-Metke">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Austin-Metke&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/Austin-Metke/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Austin-Metke&layout=compact&count_private=true&theme=tokyonight" />
-</a>
+### ⚡ Featured Projects  
 
+- 🎮 [m-overlay](https://github.com/Austin-Metke/m-overlay)  
+  Contributed to **bkacjios’ m-overlay**, a performance and monitoring overlay for Dolphin Emulator.  
+  ➡️ Added support for several new games, improving compatibility and user experience.  
 
-### Tools and Languages I use
+- 📊 [Expense Tracker](https://github.com/Austin-Metke/expense_tracker)  
+  A **cross-platform mobile app** (Flutter + Firebase) built for a construction company client.  
+  ➡️ Tracks employee spending, groups expenses, and visualizes data with interactive bar charts.  
 
+- 🌐 [DynamicDNS-Spigot](https://github.com/Austin-Metke/DynamicDNS-Spigot)  
+  Contributed to a **Minecraft server plugin** that provides dynamic DNS support.  
+  ➡️ Implemented **NameCheap DNS integration** by extending the `DDNSService` class.  
+  ➡️ Used **Java networking (URL, URLConnection)**, **I/O (BufferedReader, InputStreamReader)**, and **XML response parsing** to update and validate DNS records.  
 
-<br/>  
+---
 
-<div align="left">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="NodeJS" height="50" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
-</div>  
+### 🛠️ Tools & Languages  
 
-<br/>  
+**Frontend & Mobile:** Flutter, JavaScript, Dart  
+**Backend:** Node.js, Python, Java, C#  
+**Databases:** MySQL, Firebase  
+**Other:** Linux, Bash, Figma  
 
+---
 
-<br />
+### 📊 GitHub Stats  
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Austin-Metke&count_private=true&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Austin-Metke&layout=compact&theme=tokyonight)  
+
+---
+
+### 🎯 What I’m Focusing On  
+- Building cross-platform apps with **Flutter**  
+- Strengthening backend skills with **Node.js & Python**  
+- Exploring **cloud & DevOps tools** to scale applications  
+
+---
